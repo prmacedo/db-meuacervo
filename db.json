@@ -1,0 +1,110 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "paulo@mail.com",
+            "password": "1234"
+        },
+        {
+            "id": 2,
+            "email": "joselito@mail.com",
+            "password": "1234"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Percy Jackson: O ladrão de raios",
+            "author": "Rick Riordan",
+            "tag": "read"
+        },
+        {
+            "id": 2,
+            "title": "Percy Jackson: O mar de monstros",
+            "author": "Rick Riordan",
+            "tag": "read"
+        },
+        {
+            "id": 3,
+            "title": "Percy Jackson: A maldição do titã",
+            "author": "Rick Riordan",
+            "tag": "reading"
+        },
+        {
+            "id": 4,
+            "title": "Percy Jackson: A batalha no labirinto",
+            "author": "Rick Riordan",
+            "tag": "reading"
+        },
+        {
+            "id": 5,
+            "title": "Percy Jackson: O último olimpiano",
+            "author": "Rick Riordan",
+            "tag": "toRead"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "title": "Vingadores",
+            "year": 2012,
+            "tag": "watchedMovie"
+        },
+        {
+            "id": 2,
+            "title": "Vingadores: Era de Ultron",
+            "year": 2014,
+            "tag": "watchedMovie"
+        },
+        {
+            "id": 3,
+            "title": "Vingadores: Guerra Infinita",
+            "year": 2018,
+            "tag": "watchedMovie"
+        },
+        {
+            "id": 4,
+            "title": "Vingadores: Ultimato",
+            "year": 2019,
+            "tag": "watchedMovie"
+        },
+        {
+            "id": 5,
+            "title": "Homem-Aranha Longe de Casa",
+            "year": 2022,
+            "tag": "toWatch"
+        }
+    ],
+    "series": [
+        {
+            "id": 1,
+            "title": "How I Met Your Mother",
+            "season": 1,
+            "tag": "watchedSeries"
+        },
+        {
+            "id": 2,
+            "title": "How I Met Your Mother",
+            "season": 2,
+            "tag": "watchedSeries"
+        },
+        {
+            "id": 3,
+            "title": "How I Met Your Mother",
+            "season": 3,
+            "tag": "watchedSeries"
+        },
+        {
+            "id": 4,
+            "title": "Castle",
+            "season": 1,
+            "tag": "watching"
+        },
+        {
+            "id": 5,
+            "title": "Castle",
+            "season": 8,
+            "tag": "toWatch"
+        }
+    ]
+}
