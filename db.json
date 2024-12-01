@@ -9,6 +9,16 @@
             "id": 2,
             "email": "joselito@mail.com",
             "password": "1234"
+        },
+        {
+            "id": 3,
+            "email": "paloma@mail.com",
+            "password": "1234"
+        },
+        {
+            "id": 4,
+            "email": "breno@mail.com",
+            "password": "1234"
         }
     ],
     "books": [
@@ -41,6 +51,18 @@
             "title": "Percy Jackson: O último olimpiano",
             "author": "Rick Riordan",
             "tag": "toRead"
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter e a Pedra Filosofal",
+            "author": "J. K. Rowling",
+            "tag": "toRead"
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter e a Câmara Secreta",
+            "author": "J. K. Rowling",
+            "tag": "toRead"
         }
     ],
     "movies": [
@@ -70,8 +92,26 @@
         },
         {
             "id": 5,
+            "title": "Homem-Aranha De Volta ao Lar",
+            "year": 2017,
+            "tag": "toWatch"
+        },
+        {
+            "id": 6,
             "title": "Homem-Aranha Longe de Casa",
+            "year": 2019,
+            "tag": "toWatch"
+        },
+        {
+            "id": 7,
+            "title": "Homem-Aranha Sem Volta pra Casa",
             "year": 2022,
+            "tag": "toWatch"
+        },
+        {
+            "id": 8,
+            "title": "Homem-Aranha Minha Casa Minha Vida",
+            "year": 2025,
             "tag": "toWatch"
         }
     ],
@@ -104,6 +144,18 @@
             "id": 5,
             "title": "Castle",
             "season": 8,
+            "tag": "toWatch"
+        },
+        {
+            "id": 6,
+            "title": "Brooklyn 99",
+            "season": 1,
+            "tag": "toWatch"
+        },
+        {
+            "id": 7,
+            "title": "Brooklyn 99",
+            "season": 2,
             "tag": "toWatch"
         }
     ]
